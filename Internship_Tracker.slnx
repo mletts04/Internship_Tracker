@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Internship_Tracker/Internship_Tracker.vcxproj" Id="facd5e63-4448-4942-a7b9-8610a710574c" />
+</Solution>
